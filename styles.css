@@ -36,7 +36,6 @@ li a {
   text-align: center;
   padding: 0px 1px;
   text-decoration: none;  
-  position: sticky;
   z-index: 2;
 }
 /* an attempt to make everything align in the middle of the page*/
