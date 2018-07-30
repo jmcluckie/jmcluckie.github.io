@@ -1,7 +1,7 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background: #f49541;
+  background: #4da6ff;
 }
 
 /* Header/Blog Title */
@@ -9,7 +9,7 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: #d2f2f0;
+  background: #f2f2f2;
 }
 /* Left column */
 .leftcolumn { 
@@ -26,12 +26,12 @@ body {
 /* Fake image */
 .fakeimg {
   background-color: #aaa;
-  width: 100%;
+  width: 75%;
   padding: 20px;
 }
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background-color: #f2f2f2;
   padding: 20px;
   margin-top: 20px;
 }
